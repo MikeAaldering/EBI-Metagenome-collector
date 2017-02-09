@@ -1,0 +1,79 @@
+Methylobacter luteus IMV-B-3098
+Methylobacter sp. BBA5.1
+Methylobacter tundripaludum 21/22
+Methylobacter tundripaludum 21/22
+Methylobacter tundripaludum 31/32
+Methylobacter tundripaludum SV96
+Methylobacter whittenburyi ACM 3310
+Methylocaldum szegediense O-12
+Methylococcus capsulatus ATCC 19069
+Methylococcus capsulatus Bath
+Methylococcus capsulatus Texas
+Methylohalobius crimeensis 10Ki
+Methylomarinum vadi IT-4
+Methylomicrobium agile ATCC 35068
+Methylomicrobium album BG8
+Methylomicrobium alcaliphilum 20Z
+Methylomicrobium buryatense 5G
+Methylomonas methanica MC09
+Methylomonas sp. 11b
+Methylomonas sp. LW13
+Methylomonas sp. MK1
+Methylosarcina fibrata AML-C10
+Methylosarcina lacus LW14
+Methylovulum miyakonense HT12
+Methylobacter luteus IMV-B-3098
+Methylobacter sp. BBA5.1
+Methylobacter tundripaludum 21/22
+Alpha-MOB
+Methylocapsa acidiphila B2
+Methylocapsa aurea KYG T
+Methylocella silvestris BL2, DSM 15510
+Methylocystis parvus OBBP
+Methylocystis rosea SV97T
+Methylocystis sp. LW5
+Methylocystis sp. Rockwell, ATCC 49242
+Methylocystis sp. SB2
+Methylocystis sp. SC2
+Methyloferula stellata AR4
+Methylosinus sp. LW3
+Methylosinus sp. LW4
+Methylosinus sp. PW1
+Methylosinus trichosporium OB3b
+NC10
+Methylomirabilis oxyfera
+Methylovulum
+Methylocapsa
+Methylosinus
+Methylocella
+Methylosarcina
+Methylomonas
+Methylomicrobium
+Methylobacter
+Methylocaldum
+Methylococcus
+Methylosinus
+methylomirabilis
+Methylocapsa
+Methylocystis
+Methylosinus
+Methylocystis
+Methyloferula
+Methylocapsa
+Methylococcus
+Methylocaldum
+Methylomonas
+Methylobacter
+Methylohalobius
+Methylosarcina
+Methylosarcina
+Methylococaceae
+Methylomicrobium
+Methylomonas
+Methylovulum
+Methylomarinum
+Methylocaldum
+Methanotrophic
+Methylacidiphilum
+Verrucomicrobium
+Verrucomicrobium

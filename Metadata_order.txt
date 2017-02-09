@@ -1,0 +1,368 @@
+id
+altitude_std
+altitude
+biome_std
+material_std
+collection_date_std
+collection date
+collection_date
+depth_std
+depth
+depth (m)
+Depth (m)
+elevation_std
+elev
+elevation
+geographic_location_std
+geographic location
+geo_loc_name
+geographic location (altitude)
+geographic location (country and/or sea)
+geographic location (country and/or sea,region)
+geographic location (country:region,area)
+geographic location (depth) (m)
+geographic location (elevation) (m)
+geographic location (latitude and longitude)
+geographic location (latitude)
+geographic location (latitude) (DD)
+geographic location (longitude)
+geographic location (longitude) (DD)
+geographic location (region and locality)
+seq_meth_std
+host
+host health state
+host scientific name
+host-associated environmental package
+human skin environmental package
+instrument_model
+lat_lon
+lat_lon (Degrees)
+latitude
+Latitude End (DD)
+Latitude Start (DD)
+longitude
+Longitude End (DD)
+Longitude Start (DD)
+seq_platform
+sequencing method
+Temp_std
+Temperature (oC)
+temp (C)
+temperature (oC)
+temp
+fields_temperature_0
+dissolved inorganic carbon (mg/l)
+dissolved organic carbon (mg/l)
+C_percent_std
+percent_org_carb
+tot_org_carb
+total carbon
+total organic carbon
+total organic carbon (g/kg)
+ammonia
+ammonium nitrogen
+N_percent_std
+tot_n
+tot_nitro
+urea
+nitrate
+nitrate (umol/L)
+nitrate nitrogen
+total nitrogen (g/L)
+nitrite
+C_N_ratio_std
+carb_nitro_ratio
+pH_std
+ph
+ph level (cacl2)
+ph level (h2o)
+phosphate
+phosphate (umol/L)
+phosphorus colwell
+bulk_density
+conductivity
+diss_oxygen
+diss_oxygen (mg/L)
+exc aluminium
+exc calcium
+exc magnesium
+exc potassium
+exc sodium
+gravel ( >2.0 mm)
+Oxygen Sensor (mol/kg)
+o2 consumption
+course sand (200-2000 m)
+clay (<2 m)
+percent_clay
+percent_sand
+fine sand (20-200 m)
+percent_silt
+percentclay_silt
+potassium colwell
+redox potential (mV)
+rel_to_oxygen
+respiration rate
+salinity
+salinity (ppt)
+Salinity (psu)
+Salinity Sensor (psu)
+silicate
+silicate (umol/L)
+silt (2-20 m)
+sulfate (mg/l)
+sulfide
+sulfide (mg/l)
+sulphur
+water content (g/g)
+water content of soil
+water_content_soil
+env_biome
+env_feature
+env_material
+env_matter
+env_package
+enve-omics id
+enviornmental package
+environment (featurel)
+environmental package
+environmental_background
+environmental_sample
+ph method
+ph_meth
+tot_n_meth
+tot_org_c_meth
+total nitrogen method
+total organic c method
+Nitrate Sensor (mol/L)
+water content method
+water_content_soil_meth
+a
+agrochem_addition
+Amount or size of sample collected (g)
+annual_season_precpt
+annual_season_temp
+anonymized_name
+arrayexpress-sex
+arrayexpress-species
+assigned_from_geo
+ba_genome_copies_no
+biomaterial_provider
+biome
+bioproject_id
+biosamplemodel
+boron hot cacl2
+chlorophyll
+chlorophyll (mg/m3)
+Chlorophyll Sensor (mg Chl/m3)
+citation
+collected_by
+colour
+comment
+common_name
+composite design/sieving (if any)
+crop rotation 1yr since present
+crop rotation 2yrs since present
+crop rotation 3yrs since present
+crop rotation 4yrs since present
+crop rotation 5yrs since present
+crop_rotation
+culture_collection
+cur_land_use
+cur_vegetation
+current land use
+date since change in land use
+dtpa copper
+dtpa iron
+dtpa manganese
+dtpa zinc
+ENA_metadata_url
+ena-base-count
+ena-checklist
+ena-first-public
+ena-keyword
+ena-last-update
+ena-spot-count
+ena-submission-tool
+entries_0_fields_description_0
+entries_0_fields_domain_source_0
+entries_0_fields_id_0
+entries_0_fields_name_0
+entries_0_source
+event date/time
+event date/time end
+event date/time start
+event label
+event_device
+experimental factor
+extracted_dna_avail_now
+extreme_unusual_properties/heavy metals
+feature_std
+feature
+fields_altitude_0
+fields_domain_source_0
+fields_experiment_type_0
+fields_id_0
+fields_name_0
+fields_project_name_0
+fields_sample_name_0
+fire intensity if known
+further details
+history/agrochemical additions
+history/extreme events
+history/fire
+history/flooding
+history/previous land use
+hitCount
+horizon
+iho
+investigation type
+investigation_type
+is the sequenced pathogen host associated?
+is_reference
+isolate
+isolate, name or label
+isolation and growth condition
+isolation_source
+isolation-source
+label
+last update date
+library_id
+links to additional analysis
+marine region
+mg-rast id
+microbial_biomass
+microbial_biomass_meth
+miscellaneous environmental package
+miscellaneous parameter
+mrgid
+name of the sampling site
+nucleic acid extraction
+oiling status
+other
+other comments
+OTU_URL
+pcr primers
+physical_samp_avail_now
+plant-associated environmental package
+pooling of dna extracts (if done)
+previous_land_use
+profile position (base)
+project name
+project_metadata_url
+project_name
+protocol label
+pubmed
+samp_collect_device
+samp_size
+samp_vol_we_dna_ext
+sample collection device
+sample description
+sample number
+sample status
+sample type
+sample volume or weight for DNA extraction (g)
+sample weight for DNA extraction (g)
+sample_description
+sample_id
+sample_location
+sample_metadata_url
+sample_name
+sample_progress
+sample_title
+sample_type
+sampling campaign
+sampling platform
+sampling site
+sampling station
+sampling_objective
+sand
+sediment environmental package
+sewage type
+sieving
+size fraction lower threshold
+size fraction upper threshold
+slope aspect
+slope gradient (%)
+slope_aspect
+slope_gradient
+soil environmental package
+soil_taxonomic/fao classification
+soil_taxonomic/local classification
+soil_type
+source
+source_material_id
+specific host
+specific_host
+storage conditions (fresh/frozen/other)
+store_cond
+strain
+taxon_id
+texture
+texture (% sand/silt/clay)
+tillage
+title
+total_depth_water_col
+total_depth_water_col (m)
+vegetation dom grasses
+vegetation dom shrubs
+vegetation dom trees
+vegetation total cover
+wastewater/sludge environmental package
+water environmental package
+material
+description
+"public"
+Lat_Lon_std
+entries_0_fields_biome_name_0
+entries_0_id
+environment (biome)
+environment (feature)
+environment (material)
+fields_METAGENOMICS_SAMPLES_0
+fields_depth_0
+fields_pipeline_version_0
+soil_type_meth
+Total_reads
+total_reads_species_of_interest
+k__Bacteria; p__NC10; c__12-24; o__; f__; g__; s__
+k__Bacteria; p__NC10; c__12-24; o__JH-WHS47; f__; g__; s__
+k__Bacteria; p__NC10; c__12-24; o__MIZ17; f__; g__; s__
+k__Bacteria; p__NC10; c__12-24; o__Methylomirabiliales; f__Methylomirabiliaceae; g__; s__
+k__Bacteria; p__NC10; c__12-24; o__Methylomirabiliales; f__Methylomirabiliaceae; g__Candidatus Methylomirabilis; s__
+k__Bacteria; p__NC10; c__; o__; f__; g__; s__
+k__Bacteria; p__NC10; c__wb1-A12; o__; f__; g__; s__
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Methylocella; s__
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Methyloferula; s__stellata
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__; s__
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__adhaesivum
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__hispanicum
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__komagatae
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__mesophilicum
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__organophilum
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__Methylosinus; s__
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__Methylosinus; s__sporium
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylobacter; s__bovis
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylobacter; s__capsulatus
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylobacter; s__luteus
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylobacter; s__vinelandii
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylobacter; s__whittenburyi
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylocaldum; s__
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylococcus; s__capsulatus
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylococcus; s__thermophilus
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylomicrobium; s__
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylomicrobium; s__agile
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylomicrobium; s__buryatense
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylomicrobium; s__pelagicum
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylomonas; s__
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylosarcina; s__lacus
+k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylococcaceae; g__Methylosarcina; s__quisquiliarum
+k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Verrucomicrobium; s__
+k__Bacteria; p__Verrucomicrobia; c__[Methylacidiphilae]; o__Methylacidiphilales; f__Methylacidiphilaceae; g__Candidatus Methylacidiphilum; s__infernorum
+k__Bacteria;p__NC10
+k__Bacteria;p__NC10;c__12-24
+k__Bacteria;p__NC10;c__12-24;o__;f__
+k__Bacteria;p__NC10;c__12-24;o__JH-WHS47;f__
+k__Bacteria;p__NC10;c__12-24;o__MIZ17;f__
+k__Bacteria;p__NC10;c__wb1-A12;o__;f__
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methylobacteriaceae

@@ -1,4 +1,4 @@
-# EBI-Metagenome-collector
+# EBI-Metagenomics-collector
 Author: Mike Aaldering
 Company: NIOO Knaw
 Email: M.Aaldering2@nioo.knaw.nl
